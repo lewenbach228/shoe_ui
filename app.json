@@ -27,6 +27,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "React native App using  custom Api ",
+    "githubUrl": "https://github.com/lewenbach228/shoes.git"
   }
 }
